@@ -13,4 +13,5 @@ Tic Tac Toe is a two-player game where players take turns marking X or O in a 3x
 2. Players take turns entering a position in row,column format (e.g., 0,0 for the top-left corner).
 3. The game updates the board after each move and displays it.
 4. The first player to align three symbols (X or O) in a row, column, or diagonal wins.
+5. If all spaces are filled without a winner, the game ends in a tie.
 
